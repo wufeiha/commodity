@@ -1,0 +1,6 @@
+server:
+  port: 8080
+database:
+  user: "your_database_user"
+  password: "your_database_password"
+  name: "your_database_name"
